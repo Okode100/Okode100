@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Okode100
-- 👀 I’m interested in machine learning and reverse engineering for mobile app applications.
+- 👀 I’m interested in machine learning and reverse engineering for mobile app applications, adavance networking .
 - 🌱 I’m currently learning learning Python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on advanced networking and machine learning.
+- How to reach me just drop me a line 😎
 
 <!---
 Okode100/Okode100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
