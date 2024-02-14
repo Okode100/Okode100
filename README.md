@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Okode100
 - 👀 I’m interested in machine learning and reverse engineering for mobile app applications, adavance networking .
-- 🌱 I’m currently learning learning Python 
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on advanced networking and machine learning.
 - How to reach me just drop me a line 😎
 
