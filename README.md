@@ -12,3 +12,4 @@ Implement interactive features to enhance user experience
 Integrating and managing SQL databases for web applications
 Optimizing web performance and ensuring cross-browser compatibility
 I do create an interactive and functional website tailored to your needs?
+https://roadmap.sh/card/tall/6710c6a8791f57dd60745cb0?variant=dark
